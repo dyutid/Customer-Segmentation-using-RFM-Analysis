@@ -20,7 +20,7 @@ By scoring customers on these dimensions, businesses can group them into segment
 - `rfm_analysis.ipynb` → Jupyter Notebook with full workflow (data cleaning, RFM calculation, scoring, segmentation, visualization).  
 - `Online_retail.csv` → Raw dataset used for analysis.  
 - `rfm_analysis_data.csv` → Processed file with final RFM scores and customer segments.
-- `Dashboard.pdf` → The Dashboard created in Tableau for the RFM analysis performed.  
+- `Dashboard.pdf` → The Dashboard created in Tableau for the RFM analysis performed.- [Tableau Portfolio](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dyuti.dasary/viz/RFMAnalysisforOnlineRetail/Dashboard1)  
 
 ---
 
@@ -84,4 +84,12 @@ These outputs provide actionable insights for **customer retention & targeted ca
 - Identify best customers to reward (Champions).  
 - Detect churn signals (At-Risk, Hibernating).  
 - Personalize offers for **New Customers**.  
-- Optimize loyalty programs.  
+- Optimize loyalty programs.
+
+
+## Connect with Me  
+
+
+- [LinkedIn](https://www.linkedin.com/in/dyuti-dasari)  
+- [Tableau Portfolio](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/dyutid)  
+
