@@ -75,7 +75,8 @@ These outputs provide actionable insights for **customer retention & targeted ca
 ## Tech Stack
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Jupyter Notebook  
-- CSV data processing  
+- CSV data processing
+- Tableau
 
 ---
 
